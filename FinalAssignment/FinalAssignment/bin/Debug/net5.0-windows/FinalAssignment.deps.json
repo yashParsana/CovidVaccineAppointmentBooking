@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FinalAssignment/1.0.0": {
+        "dependencies": {
+          "FinalProject": "1.0.0"
+        },
+        "runtime": {
+          "FinalAssignment.dll": {}
+        }
+      },
+      "FinalProject/1.0.0": {
+        "runtime": {
+          "FinalProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinalProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

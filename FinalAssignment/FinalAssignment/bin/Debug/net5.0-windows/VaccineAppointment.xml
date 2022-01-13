@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlotSelection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TimeSlotSelection>
+    <ReservationTime>11:40 AM</ReservationTime>
+    <SlotIndex>0</SlotIndex>
+    <IsSlotReserved>true</IsSlotReserved>
+    <VaccinationDetail xsi:type="Moderna">
+      <VaccineName>Moderna</VaccineName>
+      <FirstName>Yash</FirstName>
+      <LastName>Parsana</LastName>
+      <Age>23</Age>
+      <MobileNumber>1234567890</MobileNumber>
+      <IdentificationDocumentType>Passport</IdentificationDocumentType>
+      <IdentificationDocumentNumber>A1234567</IdentificationDocumentNumber>
+      <SelectedDose>1</SelectedDose>
+    </VaccinationDetail>
+  </TimeSlotSelection>
+  <TimeSlotSelection>
+    <ReservationTime>11:20 AM</ReservationTime>
+    <SlotIndex>0</SlotIndex>
+    <IsSlotReserved>true</IsSlotReserved>
+    <VaccinationDetail xsi:type="Moderna">
+      <VaccineName>Moderna</VaccineName>
+      <FirstName>Yash</FirstName>
+      <LastName>Parsana</LastName>
+      <Age>23</Age>
+      <MobileNumber>9999999999</MobileNumber>
+      <IdentificationDocumentType>DrivingLicense</IdentificationDocumentType>
+      <IdentificationDocumentNumber>123456789012345</IdentificationDocumentNumber>
+      <SelectedDose>1</SelectedDose>
+    </VaccinationDetail>
+  </TimeSlotSelection>
+  <TimeSlotSelection>
+    <ReservationTime>12:20 PM</ReservationTime>
+    <SlotIndex>0</SlotIndex>
+    <IsSlotReserved>true</IsSlotReserved>
+    <VaccinationDetail xsi:type="Moderna">
+      <VaccineName>Moderna</VaccineName>
+      <FirstName>Mohan</FirstName>
+      <LastName>Krishna</LastName>
+      <Age>24</Age>
+      <MobileNumber>1234567890</MobileNumber>
+      <IdentificationDocumentType>DrivingLicense</IdentificationDocumentType>
+      <IdentificationDocumentNumber>123456789012345</IdentificationDocumentNumber>
+      <SelectedDose>1</SelectedDose>
+    </VaccinationDetail>
+  </TimeSlotSelection>
+  <TimeSlotSelection>
+    <ReservationTime>01:20 PM</ReservationTime>
+    <SlotIndex>0</SlotIndex>
+    <IsSlotReserved>true</IsSlotReserved>
+    <VaccinationDetail xsi:type="Moderna">
+      <VaccineName>Moderna</VaccineName>
+      <FirstName>s vsdh</FirstName>
+      <LastName>hsdbhs</LastName>
+      <Age>56</Age>
+      <MobileNumber>5656565656</MobileNumber>
+      <IdentificationDocumentType>DrivingLicense</IdentificationDocumentType>
+      <IdentificationDocumentNumber>121212121212121</IdentificationDocumentNumber>
+      <SelectedDose>1</SelectedDose>
+    </VaccinationDetail>
+  </TimeSlotSelection>
+</SlotSelection>
